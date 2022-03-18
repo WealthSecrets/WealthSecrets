@@ -12,8 +12,6 @@ User privacy and security is of uttermost concern to us. We ask that you do not 
 
 # FAQs
 
-# FAQs
-
 **Q:** What do the roadmap categories mean?
 * Shipped - Hopefully you are enjoying it! Give us feedback on how it is working!
 * Almost There - We are applying the finishing touches. Things in this bucket you can expect to be shipped within 1-2 weeks
